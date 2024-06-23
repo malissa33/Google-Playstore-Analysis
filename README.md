@@ -25,9 +25,9 @@ Calculate the average rating for each app category.
 Identify the app categories with the highest total number of installs.
 
 
-###Average Sentiment Polarity by App Category:
+### Average Sentiment Polarity by App Category:
 Analyze the average sentiment polarity of user reviews for each app category.
 
 
-###Sentiment reviews by App Category
+### Sentiment reviews by App Category
 Provide the distribution of sentiments across different app categories
