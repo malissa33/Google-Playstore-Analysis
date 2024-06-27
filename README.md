@@ -10,7 +10,7 @@ The goal is to analyze the Google Play Store Apps dataset to derive insights int
 <li>There are total 33 app categories in this dataset and total number of distinct apps in these categories are 8k.</li>
 <li>Type of these apps can be paid or premium.Free apps are 92.12% of the dataset, while paid apps constitute 7.81%.</li>
 <li>A positive correlation exists between installs and rating.</li>
-<li>The average rating of apps on the Play Store is 4.17, indicating a satisfactory overall quality.</li>
+<li>The average rating of apps on the Play Store is 4.0, indicating a satisfactory overall quality.</li>
 <li>The top 3 apps by categories in terms of installs on the Play Store are "Family," "Game," and "Tools."</li>
 <li>“Game” category stands in top 2 position having highest number of installs for both paid and free app types.</li>
 <li>When the app is free, the percentage of positive sentiments is greater than negative sentiments but for paid apps negative sentiments are more</li>
